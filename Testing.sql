@@ -1,0 +1,1 @@
+INSERT INTO film (judul_film, genre) VALUES ('Agak Laen', 'Komedi'), ('Dune: Part Two', 'Sci-Fi');
